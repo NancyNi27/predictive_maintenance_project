@@ -1,20 +1,5 @@
 # CMAPSS dataset
-CMAPSSData/train_FD001.txt
-CMAPSSData/train_FD002.txt
-CMAPSSData/train_FD003.txt
-CMAPSSData/train_FD004.txt
-CMAPSSData/test_FD001.txt
-CMAPSSData/test_FD002.txt
-CMAPSSData/test_FD003.txt
-CMAPSSData/test_FD004.txt
-CMAPSSData/RUL_FD001.txt
-CMAPSSData/RUL_FD002.txt
-CMAPSSData/RUL_FD003.txt
-CMAPSSData/RUL_FD004.txt
-
-
-# PDF
-CMAPSSData/Damage\ Propagation\ Modeling.pdf
+CMAPSSData/
 
 # Temporary files and IDE generated files
 __pycache__/
@@ -50,3 +35,4 @@ aws-credentials.json
 # Large output files
 dashboard/temp_files/
 *.csv
+figures/
