@@ -6,7 +6,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 .DS_Store
-.idea/
+.idea/ 
 .vscode/
 *.swp
 *.swo
@@ -36,3 +36,25 @@ aws-credentials.json
 dashboard/temp_files/
 *.csv
 figures/
+
+# Large media files
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.mp4
+*.mov
+
+# Cache directories
+.cache/
+__pycache__/
+.pytest_cache/
+.coverage
+htmlcov/
+
+# ML specific
+.mlruns/
+mlruns/
+wandb/
+lightning_logs/
+runs/
