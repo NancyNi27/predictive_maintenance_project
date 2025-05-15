@@ -50,3 +50,5 @@ aws-credentials.json
 # Large output files
 dashboard/temp_files/
 *.csv
+figures/
+figures/*
